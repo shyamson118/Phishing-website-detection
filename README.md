@@ -26,7 +26,7 @@ The model is trained on a dataset with features such as:
 ##  How to Run
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/ManasaVeera79/phishing-website-detection.git
+   git clone https://github.com/shyamson118/phishing-website-detection.git
    cd phishing-website-detection
 2. **Create a Virtual Environment and Install Dependencies**
    ```bash
