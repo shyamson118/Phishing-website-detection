@@ -1,4 +1,4 @@
-# Phishing Website Detection
+[# Phishing Website Detection
 
 ##  About the Project
 Phishing attacks are a growing cybersecurity threat, and this Phishing Website Detection project provides a fast and effective way to identify potentially unsafe websites. By leveraging machine learning (XGBoost) and integrating a Flask backend with a simple HTML, CSS, and JavaScript frontend, this tool offers an easy-to-use solution for users to verify website safety.
@@ -44,3 +44,4 @@ The model is trained on a dataset with features such as:
 - Open index.html in a web browser.
 - Enter a website URL and click "Check", it gives url is safe or unsafe.
 - The result will be displayed after the backend processes the request.
+](https://github.com/shyamson118/phishing-website-detection.git)
